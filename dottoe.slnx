@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dottoe.vcxproj" Id="f995545d-6cd4-42f7-8b54-48b3539f8ecd" />
+</Solution>
